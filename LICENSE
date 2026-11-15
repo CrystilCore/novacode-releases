@@ -1,0 +1,44 @@
+NovaCode
+Copyright (c) 2026 CrystilCore. All rights reserved.
+
+NovaCode's own code, design, artwork and documentation (everything in this
+project that isn't one of the third-party components listed below) belong to
+CrystilCore.
+
+You may:
+  - download NovaCode and use it for free, for any project, including
+    commercial ones;
+  - share links to NovaCode's website and releases.
+
+Your projects are yours. Anything you make with NovaCode (your code, sprites,
+sounds and other assets, and the files NovaCode exports from them: .sbn, .sb3,
+web pages and apps) belongs to you. You may share, publish and sell them. An
+exported web page or app contains a small player from NovaCode so it can run;
+you may share it as part of your exported project, unchanged.
+
+Without written permission from CrystilCore you may not:
+  - copy, change, or redistribute NovaCode itself or its source code;
+  - publish NovaCode, or a changed version of it, under another name;
+  - use the NovaCode name or logo in a way that suggests CrystilCore made or
+    endorses something it didn't.
+
+NOVACODE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL CRYSTILCORE BE LIABLE
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH NOVACODE OR THE
+USE OR OTHER DEALINGS IN IT.
+
+Third-party components
+----------------------
+NovaCode includes open-source components that keep their own licences
+(Apache-2.0, BSD-3-Clause, MIT, MPL-2.0, SIL Open Font License), among them
+TurboWarp's scratch-vm and scratch-render (MPL-2.0, used unchanged), Scratch's
+scratch-blocks, scratch-storage, scratch-svg-renderer and scratch-audio, Blockly,
+paper.js and fflate. Their full notices are in licenses.txt, which ships with
+NovaCode (the "Open-source notices" link). Nothing in this licence limits the
+rights those licences give you for those components.
+
+NovaCode is independent: it is not affiliated with or endorsed by the Scratch
+Foundation, MIT, TurboWarp or PenguinMod. Scratch is a project of the Scratch
+Foundation.
