@@ -1,0 +1,41 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "NovaCode",
+  "description": "A block editor that makes Scratch projects, and more.",
+  "colors": {
+    "primary": "#5060FF",
+    "light": "#7BCAFF",
+    "dark": "#6353EC"
+  },
+  "favicon": "/favicon.svg",
+  "logo": {
+    "light": "/logo/icon.svg",
+    "dark": "/logo/icon.svg",
+    "href": "https://crystilcore.github.io/novacode/"
+  },
+  "appearance": { "default": "dark" },
+  "navbar": {
+    "links": [
+      { "label": "Website", "href": "https://crystilcore.github.io/novacode/" }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "Download",
+      "href": "https://github.com/CrystilCore/novacode-releases/releases/latest"
+    }
+  },
+  "navigation": {
+    "groups": [
+      {
+        "group": "Getting started",
+        "pages": ["index", "install", "project-types"]
+      }
+    ]
+  },
+  "footer": {
+    "socials": {
+      "github": "https://github.com/CrystilCore/novacode-releases"
+    }
+  }
+}
